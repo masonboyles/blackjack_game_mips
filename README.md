@@ -1,4 +1,4 @@
-# poker_game_mips
+# BlackJack_game_mips
 
 I designed an entire CPU to process MIPS assembly instructions according to the following specifications. This was done over the course of a class I took called Digital Logic using System Verilog. These files were then used to generate a bitstream to run on a Nexys A7 FPGA.
 
